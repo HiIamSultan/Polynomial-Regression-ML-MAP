@@ -128,5 +128,3 @@ python linear_regression.py --N 1000
 
 ---
 
-If you face any issues while running the repository, please email mqm7099@psu.edu
-
